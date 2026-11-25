@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://las-vegas-nv-89102.onrender.com/sitemap.xml
+Sitemap: https://las-vegas-nv-89102.onrender.com/las-vegas-property-management/sitemap.xml
