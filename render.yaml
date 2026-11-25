@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: las-vegas-nv-89102
+    env: static
+    staticPublishPath: public
+    buildCommand: ""
+    pullRequestPreviewsEnabled: false
